@@ -30,3 +30,7 @@ Thanks for helping improve Bridgelet! Please read this guide before opening an i
 ## Questions?
 
 If you are unsure how to proceed, open a GitHub Discussion or email the maintainers per [SUPPORT.md](./SUPPORT.md). We are happy to help you get started.
+
+## Reference
+
+- [Governance](./docs/GOVERNANCE.md) — outlines project roles, decision-making, and contributor participation.
